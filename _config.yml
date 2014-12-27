@@ -39,7 +39,7 @@ harmony:
     dribble: 
     pinterest: 
   # Toggle disclaimer in footer
-  show_disclaimer: true
+  show_disclaimer: false
 
 # Conversion / Build settings 
 markdown:    kramdown
@@ -47,7 +47,7 @@ markdown:    kramdown
 highlighter: pygments 
 
 # Permalinks
-permalink: /:month-:day-:year/:title.html
+permalink: /:year-:month-:day/:title.html
 
 exclude: 
   - CNAME

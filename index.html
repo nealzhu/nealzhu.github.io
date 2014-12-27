@@ -14,11 +14,11 @@ layout: default
           <p class="post-meta">
             {% if (post.categories.size > 0 %}
             <span class="categories">
-            {{ post.categories | array_to_sentence_string }}
+            {{ post.categories | ", " }}
             </span> |
             {% endif %}
             <span class="post-date">
-            {{ post.date | date: "%b %-d, %Y" }} 
+            {{ post.date | date: "%Y-%M-%-d" }}
             </span>
           </p>          
     			    			

@@ -4,24 +4,18 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+曾经读过阮一峰对于搭建博客的一篇文章，说会经历几个阶段，捯饬来捯饬去的，最后还是专注于内容，我表示深有感触。
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+以前折腾过网站博客、虚拟空间、VPS，最终发现内容很少。而频繁在意的总是在主题、插件等一系列无关紧要的地方。
 
-### Contact me
+我觉得是因为没有坚持。学习也好，工作也好，生活也好，总归会给有坚持的人一些回报。
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+于是搬至 github，重新开始。
 
+### 联系方式
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+- Github: [github.com/nealzhu][0]
+- Email: nealzhuqian#gmail.com（#替换成@）
+- Wechat: nealzhu
+
+[0]: https://github.com/nealzhu "111"

@@ -1,13 +1,15 @@
 ---
 layout: post
 title:  "Github Pages 快速搭建个人博客指南"
-date:   2014-12-30 13:42:00
+date:   2014-12-30 16:24:30
 description: 本文记录了快速使用 Github pages 搭建个人博客的方法，也是本博客搭建的过程，不涉及复杂的优化或者自定义内容。
 categories:
 - blog
 - Github
 - jekyll
 ---
+
+本文记录了快速使用 Github Pages 搭建个人博客的方法，也是本博客搭建的过程，不涉及复杂的优化或者自定义内容。这些是以后慢慢学习的内容。
 
 ### Github Pages 简介
 

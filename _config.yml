@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /
+baseurl: http://www.zqlab.org
 
 # Site live URL
 url: http://www.zqlab.org

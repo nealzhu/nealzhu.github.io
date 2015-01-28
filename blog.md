@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog archive
+title: 文章归档
 ---
 <div class="page-content wc-container">
   <h1>Blog Archive</h1>  

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Books
+title: 读书归档
 permalink: /books/
 ---
-
-# 读书归档
 
 记录读过的书，也许若干年后翻起来，发现我还读过那本书呢。
 

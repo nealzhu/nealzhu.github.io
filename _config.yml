@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: 
+baseurl: /
 
 # Site live URL
 url: http://www.zqlab.org
@@ -19,7 +19,7 @@ harmony:
   # in your feed.xml site description.
   meta_description: > # 
    与像素有关，与互联网有关，奋斗在帝都的前端攻城师 Qian Zhu 的个人博客。
-   记录技术、想法与成长，关注设计、用户体验和不经意的细节，折腾 css、nodejs。
+   记录技术、想法与成长，关注设计、用户体验和不经意的细节，爱 css、nodejs。
    爱学习，爱玩耍，爱编(měi)程(nǘ)。
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details

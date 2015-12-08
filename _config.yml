@@ -11,19 +11,19 @@ url: http://www.zqlab.org
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Pixel XYZ
+  name: Pixel & Logic
   # Little description about your site
-  description: In order to be irreplaceable one must always be different.
+  description: Endless study
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
   meta_description: > # 
-   与像素有关，与互联网有关，奋斗在帝都的前端攻城师 Qian Zhu 的个人博客。
-   记录技术、想法与成长，关注设计、用户体验和不经意的细节，爱 css、nodejs。
+   反正没人看，当 title 写好了。男，前端开发工程师一枚，帝都工作中。
+   有事就自己写写，没事就看看别人写的。热爱基础技能及衍生，如 html、css、js、nodejs、less etc.。
    爱学习，爱玩耍，爱编(měi)程(nǘ)。
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Qian Zhu
+    name: Zhu Qian
     email: nealzhuqian@gmail.com
     url: http://www.zqlab.org
 

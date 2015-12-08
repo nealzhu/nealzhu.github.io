@@ -9,7 +9,9 @@ permalink: /books/
 ## 2015年
 
 * [《三体》][1] 刘慈欣【著】
+* [《极简欧洲史》][2] 【澳】约翰·赫斯特【著】
 
 
 
 [1]: http://www.duokan.com/book/10517
+[2]: http://www.duokan.com/book/24947

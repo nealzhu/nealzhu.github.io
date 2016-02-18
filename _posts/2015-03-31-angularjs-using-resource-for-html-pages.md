@@ -31,6 +31,7 @@ $resource 是 AngularJS 中应对 RESTful 风格接口的一个服务，它底�
 
 看了看底层 $http，是没问题的，那么就出在 $resource 自己身上了。果然，在文件底部找到了“猫腻”：
 
+```javascript
     if (action.isArray) {
         value.length = 0;
         forEach(data, function(item) {
@@ -47,6 +48,7 @@ $resource 是 AngularJS 中应对 RESTful 风格接口的一个服务，它底�
         shallowClearAndCopy(data, value);
         value.$promise = promise;
     }
+```
 
 问题就出在 `shallowClearAndCopy` 这个函数身上。因为在 isArray 为 false 的情况下，$recourse 最终返回的是单个 resource 对象，所以最后会调用 `shallowClearAndCopy` 将服务端请求来的数据拷贝至这个 resource 对象身上，而请求的页面作为字符串—既不是对象也不是类似 JSON 的字符串—在 for..in 的循环中，被一个字节一个字节地拷贝到了 resource 对象身上，于是乎在页面上直接输出就成了之前的鬼样子。
 

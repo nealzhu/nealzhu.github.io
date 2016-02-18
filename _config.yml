@@ -28,7 +28,7 @@ harmony:
     url: http://www.zqlab.org
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: 
+  google_analytics_key: UA-73984020-1
 
   # Profile links, leave blank to ignore
   social: 
